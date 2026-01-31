@@ -22,5 +22,5 @@ Memiliki minat di bidang Web Development dan Mobile Application.
 - Teknologi: CodeIgniter, MySQL
 
 ## 📫 Kontak
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/username
+- Email: alfindojovanka0@gmail.com
+
